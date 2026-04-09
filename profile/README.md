@@ -2,7 +2,7 @@
 
 A community-driven hub for Tom Clancy's The Division 2 game data and tools.
 
-Division 2 game data has traditionally been community-maintained in Google Sheets — a huge effort by dedicated contributors over the years. But spreadsheets are hard to build on: formats vary between sheets, automation is limited, and the data is tied to whoever owns the document. Division 2 Community Data Hub takes that same community effort and puts it into version-controlled, schema-validated, machine-readable CSVs — open source and designed to be consumed by any tool, not just ours. Contributions go through pull requests, so the data belongs to the community, not any single maintainer.
+Division 2 game data has traditionally been community-maintained in Google Sheets — a huge effort by dedicated contributors over the years. But the raw data of spreadsheets are hard to build on: formats vary between sheets, automation is limited, and the raw data is tied to whoever owns the document. Division 2 Community Data Hub takes that same community effort and puts it into version-controlled, schema-validated, machine-readable CSVs — open source and designed to be consumed by any tool or human-facing gsheet. Contributions go through pull requests, so the data belongs to the community, not any single maintainer.
 
 ## What's here
 
@@ -10,9 +10,9 @@ Division 2 game data has traditionally been community-maintained in Google Sheet
 
 ## Principles
 
-- **Open data, open tools.** Game data should be a shared community resource, not locked behind any one person's spreadsheet. Tools built on this data are open source too.
+- **Open data, open tools.** Raw game data should be a shared community resource, not locked behind a read-only spreadsheet. User-facing tools and spreadsheets can focus on human readability, while pulling the raw data from machine-readable CSV files with useful metadata.
 - **Schema over convention.** Every CSV column has defined syntax, validated at build time. This isn't a suggestion — the build fails if the data doesn't conform. Consistent data means any developer can write a parser once and trust it.
-- **Built for reuse.** The data library exists independently of any single tool. If you're building a DPS calculator, a gear optimizer, a build planner, or something we haven't thought of — the data is here for you.
+- **Built for reuse.** The data library exists independently of any single tool or user-facing document. If you're building a DPS calculator, a gear optimizer, a build planner, or something we haven't thought of — the data is here for you.
 
 ## Contributing
 
