@@ -2,7 +2,7 @@
 
 A community-driven hub for Tom Clancy's The Division 2 game data and tools.
 
-Division 2 game data has traditionally been community-maintained in Google Sheets — a huge effort by dedicated contributors over the years. But the raw data of spreadsheets are hard to build on: formats vary between sheets, automation is limited, and the raw data is tied to whoever owns the document. Division 2 Community Data Hub takes that same community effort and puts it into version-controlled, schema-validated, machine-readable CSVs — open source and designed to be consumed by any tool or human-facing gsheet. Contributions go through pull requests, so the data belongs to the community, not any single maintainer.
+Division 2 game data has traditionally been community-maintained in Google Sheets — a huge effort by dedicated contributors over the years. But the raw data of spreadsheets are hard to build on: formats vary between sheets, automation is limited, and the raw data is tied to whoever owns the document. Division 2 Community Data Hub takes that same community effort and puts it into version-controlled, schema-validated, machine-readable CSVs — open source and designed to be consumed by any tool or user-facing document. Contributions go through pull requests, so the data belongs to the community, not any single maintainer.
 
 ## What's here
 
