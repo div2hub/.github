@@ -19,7 +19,7 @@ Division 2 game data has traditionally been community-maintained in various docu
 We welcome contributors — whether you're filling in missing stats, correcting values, or building your own tools on top of the data.
 
 - **Data contributions:** Fork [div2hub/data](https://github.com/div2hub/data), read the [CSV conventions](https://github.com/div2hub/data/blob/main/README.md), and open a PR. The validation pipeline will catch formatting issues before review.
-- **Team members:** In order to ensure the community data is updated in a timely manner, more dedicated users are needed to join the Organization. Frequent pull requests or joining the new discord (https://discord.gg/V9vrHTWpep) to say hello is the best way to join.
+- **Team members:** In order to ensure the community data is updated in a timely manner, more dedicated users are needed to join the Organization. Frequent pull requests or joining the new discord (https://discord.gg/28YYYqD2fS) to say hello is the best way to join.
 - **Tool developers:** The data repo is designed as a git submodule you can pull into any project. Use it however you like.
-- **Discord:** A new discord (https://discord.gg/V9vrHTWpep) has been launched to capture ideas and discuss tool development.
+- **Discord:** A new discord (https://discord.gg/28YYYqD2fS) has been launched to capture ideas and discuss tool development.
 - **Issues, questions, or ideas:** Open an issue on the relevant repo, or start a discussion, or join the Discord.
