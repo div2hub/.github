@@ -6,7 +6,7 @@ Division 2 game data has traditionally been community-maintained in various docu
 
 ## What's here
 
-- **[data](https://github.com/div2hub/data)** — Community-maintained Division 2 game data (weapons, gear, talents, attributes, mods, and more). Every CSV follows a documented schema with build-time validation — no empty cells, no ambiguous formats, no guesswork.
+- **[data](https://github.com/div2hub/game-data)** — Community-maintained Division 2 game data (weapons, gear, talents, attributes, mods, and more). Every CSV follows a documented schema with build-time validation — no empty cells, no ambiguous formats, no guesswork.
 
 ## Principles
 
@@ -18,7 +18,7 @@ Division 2 game data has traditionally been community-maintained in various docu
 
 We welcome contributors — whether you're filling in missing stats, correcting values, or building your own tools on top of the data.
 
-- **Data contributions:** Fork [div2hub/data](https://github.com/div2hub/data), read the [CSV conventions](https://github.com/div2hub/data/blob/main/README.md), and open a PR. The validation pipeline will catch formatting issues before review.
+- **Data contributions:** Fork [div2hub/game-data](https://github.com/div2hub/data), read the [CSV conventions](https://github.com/div2hub/data/blob/main/README.md), and open a PR. The validation pipeline will catch formatting issues before review.
 - **Team members:** In order to ensure the community data is updated in a timely manner, more dedicated users are needed to join the Organization. Frequent pull requests or joining the new discord (https://discord.gg/28YYYqD2fS) to say hello is the best way to join.
 - **Tool developers:** The data repo is designed as a git submodule you can pull into any project. Use it however you like.
 - **Discord:** A new discord (https://discord.gg/28YYYqD2fS) has been launched to capture ideas and discuss tool development.
