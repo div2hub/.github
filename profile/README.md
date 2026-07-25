@@ -6,7 +6,7 @@ Division 2 game data has traditionally been community-maintained in various docu
 
 ## What's here
 
-- **[data](https://github.com/div2hub/game-data)** — Community-maintained Division 2 game data (weapons, gear, talents, attributes, mods, and more). Every CSV follows a documented schema with build-time validation — no empty cells, no ambiguous formats, no guesswork.
+- **[game-data](https://github.com/div2hub/game-data)** — Community-maintained Division 2 game data (weapons, gear, talents, attributes, mods, and more). Every CSV follows a documented schema with build-time validation — no empty cells, no ambiguous formats, no guesswork.
 
 ## Principles
 
